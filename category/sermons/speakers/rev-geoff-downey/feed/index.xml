@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rev. Geoff Downey &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/rev-geoff-downey/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Rev. Geoff Downey &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Psalm 1— The Truly Blessed Man</title>
+		<link>/2014/05/psalm-1-truly-blessed-man/</link>
+		<pubDate>Sun, 18 May 2014 14:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[Joseph Fogarty]]></dc:creator>
+				<category><![CDATA[Psalm]]></category>
+		<category><![CDATA[Rev. Geoff Downey]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=3939</guid>
+		<description><![CDATA[Listen to Rev. Geoff Downey&#8217;s sermon on Psalm 1. https://ia902502.us.archive.org/27/items/Psalm1--TheTrulyBlessedMan/Downey_2014May18_Psa1.mp3 &#160; Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Geoff Downey&#8217;s sermon on Psalm 1.</p>
+<audio class="wp-audio-shortcode" id="audio-3939-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://ia902502.us.archive.org/27/items/Psalm1--TheTrulyBlessedMan/Downey_2014May18_Psa1.mp3?_=2" /><a href="https://ia902502.us.archive.org/27/items/Psalm1--TheTrulyBlessedMan/Downey_2014May18_Psa1.mp3">https://ia902502.us.archive.org/27/items/Psalm1--TheTrulyBlessedMan/Downey_2014May18_Psa1.mp3</a></audio>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://archive.org/details/Psalm1--TheTrulyBlessedMan">Download this audio file (multiple formats available)</a></li>
+<li><a href=".org/2014/05/weekly-worship-preparation-294/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="https://ia902502.us.archive.org/27/items/Psalm1--TheTrulyBlessedMan/Downey_2014May18_Psa1.mp3" length="35960912" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Philippians 2:1-11 — The Necessity of Christmas</title>
+		<link>/2013/12/philippians-21-11-necessity-christmas/</link>
+		<pubDate>Sun, 22 Dec 2013 15:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[Joseph Fogarty]]></dc:creator>
+				<category><![CDATA[Philippians]]></category>
+		<category><![CDATA[Rev. Geoff Downey]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=3728</guid>
+		<description><![CDATA[Listen to Rev. Geoff Downey’s sermon on Philippians 2:1-11. https://ia601209.us.archive.org/31/items/Philippians21-11--TheNecessityOfChristmas/Downey_22Dec2013_Phil.2.mp3 &#160; Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Geoff Downey’s sermon on Philippians 2:1-11.</p>
+<audio class="wp-audio-shortcode" id="audio-3728-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://ia601209.us.archive.org/31/items/Philippians21-11--TheNecessityOfChristmas/Downey_22Dec2013_Phil.2.mp3?_=4" /><a href="https://ia601209.us.archive.org/31/items/Philippians21-11--TheNecessityOfChristmas/Downey_22Dec2013_Phil.2.mp3">https://ia601209.us.archive.org/31/items/Philippians21-11--TheNecessityOfChristmas/Downey_22Dec2013_Phil.2.mp3</a></audio>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://archive.org/details/Philippians21-11--TheNecessityOfChristmas">Download this audio file (multiple formats available)</a></li>
+<li><a href=".org/2013/12/weekly-worship-preparation-273/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="https://ia601209.us.archive.org/31/items/Philippians21-11--TheNecessityOfChristmas/Downey_22Dec2013_Phil.2.mp3" length="35987968" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

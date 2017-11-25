@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rev. Ben Hopp &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/rev-ben-hopp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Rev. Ben Hopp &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Luke 18:1-8</title>
+		<link>/2011/12/luke-181-8/</link>
+		<pubDate>Sun, 18 Dec 2011 15:30:31 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[Luke]]></category>
+		<category><![CDATA[Rev. Ben Hopp]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=2319</guid>
+		<description><![CDATA[Listen to Rev. Ben Hopp&#8217;s sermon on Luke 18:1-8 http://www.archive.org/download/Luke181-8/refopc_111218am.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Ben Hopp&#8217;s sermon on Luke 18:1-8</p>
+<audio class="wp-audio-shortcode" id="audio-2319-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/Luke181-8/refopc_111218am.mp3?_=2" /><a href="http://www.archive.org/download/Luke181-8/refopc_111218am.mp3">http://www.archive.org/download/Luke181-8/refopc_111218am.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" href="http://www.archive.org/details/Luke181-8" rel="nofollow" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a href=".org/2316/news/weekly-worship-preparation-169/" rel="nofollow">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/Luke181-8/refopc_111218am.mp3" length="0" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Micah 1:1-9 &#8212; Is Your Condition Really Incurable?</title>
+		<link>/2010/10/micah-11-9-is-your-condition-really-incurable/</link>
+		<pubDate>Sun, 24 Oct 2010 22:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[Micah]]></category>
+		<category><![CDATA[Rev. Ben Hopp]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=1763</guid>
+		<description><![CDATA[Listen to Rev. Ben Hopp&#8217;s sermon on Micah 1:1-9. http://www.archive.org/download/Micah11-9--IsYourConditionReallyIncurable/refopc_101024pm.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Ben Hopp&#8217;s sermon on Micah 1:1-9.</p>
+<audio class="wp-audio-shortcode" id="audio-1763-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/Micah11-9--IsYourConditionReallyIncurable/refopc_101024pm.mp3?_=4" /><a href="http://www.archive.org/download/Micah11-9--IsYourConditionReallyIncurable/refopc_101024pm.mp3">http://www.archive.org/download/Micah11-9--IsYourConditionReallyIncurable/refopc_101024pm.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" rel="nofollow" href="http://www.archive.org/details/Micah11-9--IsYourConditionReallyIncurable" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a rel="nofollow" href=".org/1758/news/weekly-worship-preparation-109/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/Micah11-9--IsYourConditionReallyIncurable/refopc_101024pm.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

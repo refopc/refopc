@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Philemon &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/texts/philemon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Philemon &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Philemon &#8212; Useful for Jesus</title>
+		<link>/2012/10/philemon-useful-for-jesus/</link>
+		<pubDate>Sun, 21 Oct 2012 17:58:46 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[Philemon]]></category>
+		<category><![CDATA[Rev. Al Tricarico]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=2802</guid>
+		<description><![CDATA[Listen to Rev. Al Tricarico&#8217;s sermon on Philemon 11 http://archive.org/download/Philemon--UsefulForJesus/Rev.mp3 Download this audio file (muliple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Al Tricarico&#8217;s sermon on Philemon 11</p>
+<audio class="wp-audio-shortcode" id="audio-2802-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://archive.org/download/Philemon--UsefulForJesus/Rev.mp3?_=2" /><a href="http://archive.org/download/Philemon--UsefulForJesus/Rev.mp3">http://archive.org/download/Philemon--UsefulForJesus/Rev.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" href="http://archive.org/details/Philemon--UsefulForJesus" rel="nofollow">Download this audio file (muliple formats available)</a></li>
+<li><a href=".org/2778/news/weekly-worship-preparation-213/" rel="nofollow">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://archive.org/download/Philemon--UsefulForJesus/Rev.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

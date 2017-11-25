@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2 John &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/texts/2-john/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>2 John &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2 John 7-13 &#8212; Separated in Christ</title>
+		<link>/2010/08/2-john-7-13-separated-in-christ/</link>
+		<pubDate>Sun, 29 Aug 2010 22:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[2 John]]></category>
+		<category><![CDATA[Rev. Stephen Oharek]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=1695</guid>
+		<description><![CDATA[Listen to Rev. Stephen Oharek&#8217;s sermon on 2 John 7-13. http://www.archive.org/download/2John7-13--SeparatedInChrist/refopc_100829pm.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Stephen Oharek&#8217;s sermon on 2 John 7-13.</p>
+<audio class="wp-audio-shortcode" id="audio-1695-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/2John7-13--SeparatedInChrist/refopc_100829pm.mp3?_=2" /><a href="http://www.archive.org/download/2John7-13--SeparatedInChrist/refopc_100829pm.mp3">http://www.archive.org/download/2John7-13--SeparatedInChrist/refopc_100829pm.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" rel="nofollow" href="http://www.archive.org/details/2John7-13--SeparatedInChrist" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a rel="nofollow" href=".org/1680/news/weekly-worship-preparation-101/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/2John7-13--SeparatedInChrist/refopc_100829pm.mp3" length="0" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>2 John 1-6 &#8212; Truth &#038; Love</title>
+		<link>/2010/08/2-john-1-6-truth-love/</link>
+		<pubDate>Sun, 29 Aug 2010 14:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[2 John]]></category>
+		<category><![CDATA[Rev. Stephen Oharek]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=1693</guid>
+		<description><![CDATA[Listen to Rev. Stephen Oharek&#8217;s sermon on 2 John 1-6. http://www.archive.org/download/2John1-6--TruthLove/refopc_100829am.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Stephen Oharek&#8217;s sermon on 2 John 1-6.</p>
+<audio class="wp-audio-shortcode" id="audio-1693-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/2John1-6--TruthLove/refopc_100829am.mp3?_=4" /><a href="http://www.archive.org/download/2John1-6--TruthLove/refopc_100829am.mp3">http://www.archive.org/download/2John1-6--TruthLove/refopc_100829am.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" rel="nofollow" href="http://www.archive.org/details/2John1-6--TruthLove" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a rel="nofollow" href=".org/1680/news/weekly-worship-preparation-101/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/2John1-6--TruthLove/refopc_100829am.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

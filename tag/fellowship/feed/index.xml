@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fellowship &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/tag/fellowship/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>fellowship &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Acts 4:32-5:11 &#8212; “True vs. False Fellowship”</title>
+		<link>/2009/03/acts-432-511-true-vs-false-fellowship/</link>
+		<pubDate>Sun, 01 Mar 2009 22:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[LO]]></dc:creator>
+				<category><![CDATA[Acts]]></category>
+		<category><![CDATA[Rev. Stephen Oharek]]></category>
+		<category><![CDATA[Sermons]]></category>
+		<category><![CDATA[fellowship]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=688</guid>
+		<description><![CDATA[Listen to Rev. Stephen Oharek&#8217;s sermon on Acts 4:32-5:11: http://www.archive.org/download/Oharek_1March2009_am/1March2009_am_64kb.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Stephen Oharek&#8217;s sermon on Acts 4:32-5:11:</p>
+<audio class="wp-audio-shortcode" id="audio-688-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/Oharek_1March2009_am/1March2009_am_64kb.mp3?_=2" /><a href="http://www.archive.org/download/Oharek_1March2009_am/1March2009_am_64kb.mp3">http://www.archive.org/download/Oharek_1March2009_am/1March2009_am_64kb.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" href="http://www.archive.org/details/Oharek_1March2009_am" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a href=".org/681/news/weekly-worship-preparation-26/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/Oharek_1March2009_am/1March2009_am_64kb.mp3" length="17741449" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
