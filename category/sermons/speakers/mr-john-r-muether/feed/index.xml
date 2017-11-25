@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mr. John R. Muether &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/mr-john-r-muether/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Mr. John R. Muether &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reading Aloud the Book of Revelation</title>
+		<link>/2014/01/reading-aloud-book-revelation/</link>
+		<pubDate>Sun, 05 Jan 2014 23:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Joseph Fogarty]]></dc:creator>
+				<category><![CDATA[Dr. Charles Hill]]></category>
+		<category><![CDATA[Mr. John R. Muether]]></category>
+		<category><![CDATA[Rev. David Chilton]]></category>
+		<category><![CDATA[Rev. Stephen Oharek]]></category>
+		<category><![CDATA[Revelation]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=3740</guid>
+		<description><![CDATA[Listen to the book of Revelation. https://ia700607.us.archive.org/11/items/ReadingAloudTheBookOfRevelation/Revelation_05Jan2014.mp3 &#160; Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to the book of Revelation.</p>
+<audio class="wp-audio-shortcode" id="audio-3740-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://ia700607.us.archive.org/11/items/ReadingAloudTheBookOfRevelation/Revelation_05Jan2014.mp3?_=2" /><a href="https://ia700607.us.archive.org/11/items/ReadingAloudTheBookOfRevelation/Revelation_05Jan2014.mp3">https://ia700607.us.archive.org/11/items/ReadingAloudTheBookOfRevelation/Revelation_05Jan2014.mp3</a></audio>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://archive.org/details/ReadingAloudTheBookOfRevelation">Download this audio file (multiple formats available)</a></li>
+<li><a href=".org/2013/12/weekly-worship-preparation-274/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="https://ia700607.us.archive.org/11/items/ReadingAloudTheBookOfRevelation/Revelation_05Jan2014.mp3" length="99975168" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

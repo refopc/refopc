@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Christian life &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/tag/christian-life/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Christian life &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>1 Peter 1:13-21 &#8212; &#8220;Be holy, for I am holy&#8221;</title>
+		<link>/2008/08/1-peter-113-21-be-holy-for-i-am-holy/</link>
+		<pubDate>Sun, 03 Aug 2008 14:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[LO]]></dc:creator>
+				<category><![CDATA[1 Peter]]></category>
+		<category><![CDATA[Rev. Stephen Oharek]]></category>
+		<category><![CDATA[Sermons]]></category>
+		<category><![CDATA[Christian life]]></category>
+		<category><![CDATA[holiness]]></category>
+
+		<guid isPermaLink="false">http://.org/wordpress/?p=224</guid>
+		<description><![CDATA[Listen to Rev. Stephen Oharek&#8217;s sermon on 1 Peter 1:13-21. http://www.archive.org/download/RefOPC_Sermon_3Aug08_1Peter1/3Aug2008_1Peter1_13f_64kb.mp3 Download this audio file (multiple formats available).]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Stephen Oharek&#8217;s sermon on 1 Peter 1:13-21.</p>
+<audio class="wp-audio-shortcode" id="audio-224-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/RefOPC_Sermon_3Aug08_1Peter1/3Aug2008_1Peter1_13f_64kb.mp3?_=2" /><a href="http://www.archive.org/download/RefOPC_Sermon_3Aug08_1Peter1/3Aug2008_1Peter1_13f_64kb.mp3">http://www.archive.org/download/RefOPC_Sermon_3Aug08_1Peter1/3Aug2008_1Peter1_13f_64kb.mp3</a></audio>
+<ul>
+<li><a title="Download audio file at the Internet Audio Archive site (opens in a new window)" href="http://www.archive.org/details/RefOPC_Sermon_3Aug08_1Peter1" target="_blank">Download this audio file (multiple formats available)</a>.</li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/RefOPC_Sermon_3Aug08_1Peter1/3Aug2008_1Peter1_13f_64kb.mp3" length="15201093" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rev. Randy Bergquist &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/rev-randy-bergquist/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Rev. Randy Bergquist &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Exodus 29:1-46 &#8212; Consecrated to Service in a Better Kingdom</title>
+		<link>/2009/05/exodus-291-46-consecrated-to-service-in-a-better-kingdom/</link>
+		<pubDate>Sun, 24 May 2009 14:30:03 +0000</pubDate>
+		<dc:creator><![CDATA[LO]]></dc:creator>
+				<category><![CDATA[Exodus]]></category>
+		<category><![CDATA[Rev. Randy Bergquist]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=819</guid>
+		<description><![CDATA[Listen to Rev. Randy Bergquist&#8217;s sermon on Exodus 29. http://www.archive.org/download/24May2009_Bergquist_sermon_Exodus29/24May2009_Berquist_Exodus_vbr.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Randy Bergquist&#8217;s sermon on Exodus 29.</p>
+<audio class="wp-audio-shortcode" id="audio-819-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/24May2009_Bergquist_sermon_Exodus29/24May2009_Berquist_Exodus_vbr.mp3?_=2" /><a href="http://www.archive.org/download/24May2009_Bergquist_sermon_Exodus29/24May2009_Berquist_Exodus_vbr.mp3">http://www.archive.org/download/24May2009_Bergquist_sermon_Exodus29/24May2009_Berquist_Exodus_vbr.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" href="http://www.archive.org/details/24May2009_Bergquist_sermon_Exodus29" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a href=".org/812/news/weekly-worship-preparation-37/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/24May2009_Bergquist_sermon_Exodus29/24May2009_Berquist_Exodus_vbr.mp3" length="73869460" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

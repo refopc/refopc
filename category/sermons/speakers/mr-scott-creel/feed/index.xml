@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mr. Scott Creel &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/mr-scott-creel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Mr. Scott Creel &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>First Peter 1:3-5 Our Sure Salvation</title>
+		<link>/2016/12/first-peter-13-5-our-sure-salvation/</link>
+		<pubDate>Mon, 12 Dec 2016 02:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[Bill Onnink]]></dc:creator>
+				<category><![CDATA[1 Peter]]></category>
+		<category><![CDATA[Mr. Scott Creel]]></category>
+		<category><![CDATA[Sermons]]></category>
+		<category><![CDATA[Speakers]]></category>
+		<category><![CDATA[Texts]]></category>
+		<category><![CDATA[First Peter]]></category>
+		<category><![CDATA[sermon]]></category>
+
+		<guid isPermaLink="false">/?p=5145</guid>
+		<description><![CDATA[Listen to Mr. Scott Creel&#8217;s sermon on First Peter 1:3-5. https://ia601509.us.archive.org/2/items/FirstPeter13-5OurSureSalvation/12-11-16Pm.mp3 &#160; Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Mr. Scott Creel&#8217;s sermon on First Peter 1:3-5.</p>
+<audio class="wp-audio-shortcode" id="audio-5145-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://ia601509.us.archive.org/2/items/FirstPeter13-5OurSureSalvation/12-11-16Pm.mp3?_=2" /><a href="https://ia601509.us.archive.org/2/items/FirstPeter13-5OurSureSalvation/12-11-16Pm.mp3">https://ia601509.us.archive.org/2/items/FirstPeter13-5OurSureSalvation/12-11-16Pm.mp3</a></audio>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://archive.org/details/FirstPeter13-5OurSureSalvation">Download this audio file (multiple formats available)</a></li>
+<li><a href="/2016/12/weekly-worship-preparation-428/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="https://ia601509.us.archive.org/2/items/FirstPeter13-5OurSureSalvation/12-11-16Pm.mp3" length="30944256" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

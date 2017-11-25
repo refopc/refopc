@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. J. Ligon Duncan &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/dr-j-ligon-duncan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Dr. J. Ligon Duncan &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Second Timothy 3:14-17 What the Bible Is and Does</title>
+		<link>/2016/07/second-timothy-314-17-bible/</link>
+		<pubDate>Mon, 11 Jul 2016 01:18:52 +0000</pubDate>
+		<dc:creator><![CDATA[Bill Onnink]]></dc:creator>
+				<category><![CDATA[2 Timothy]]></category>
+		<category><![CDATA[Dr. J. Ligon Duncan]]></category>
+		<category><![CDATA[Sermons]]></category>
+		<category><![CDATA[Speakers]]></category>
+		<category><![CDATA[Texts]]></category>
+		<category><![CDATA[Second Timothy]]></category>
+		<category><![CDATA[sermon]]></category>
+
+		<guid isPermaLink="false">/?p=4989</guid>
+		<description><![CDATA[Listen to Dr. J. Ligon Duncan&#8217;s sermon on Second Timothy 3:14-17. https://ia601502.us.archive.org/29/items/SecondTimothy314-17WhatTheBibleIsAndDoes/7-10-16Pm.mp3 &#160; Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Dr. J. Ligon Duncan&#8217;s sermon on Second Timothy 3:14-17.</p>
+<audio class="wp-audio-shortcode" id="audio-4989-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://ia601502.us.archive.org/29/items/SecondTimothy314-17WhatTheBibleIsAndDoes/7-10-16Pm.mp3?_=2" /><a href="https://ia601502.us.archive.org/29/items/SecondTimothy314-17WhatTheBibleIsAndDoes/7-10-16Pm.mp3">https://ia601502.us.archive.org/29/items/SecondTimothy314-17WhatTheBibleIsAndDoes/7-10-16Pm.mp3</a></audio>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://archive.org/details/SecondTimothy314-17WhatTheBibleIsAndDoes">Download this audio file (multiple formats available)</a></li>
+<li><a href="/2016/07/weekly-worship-preparation-406/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="https://ia601502.us.archive.org/29/items/SecondTimothy314-17WhatTheBibleIsAndDoes/7-10-16Pm.mp3" length="40543232" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

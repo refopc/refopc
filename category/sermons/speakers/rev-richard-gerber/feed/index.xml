@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rev. Richard Gerber &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/rev-richard-gerber/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Rev. Richard Gerber &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ephesians 1:15-23 &#8212; Power</title>
+		<link>/2013/02/ephesians-115-23-power/</link>
+		<pubDate>Sun, 10 Feb 2013 16:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[Ephesians]]></category>
+		<category><![CDATA[Rev. Richard Gerber]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=2996</guid>
+		<description><![CDATA[Listen to Rev. Stephen Oharek&#8217;s sermon on Ephesians 1:15-23. http://archive.org/download/Ephesians115-23--Power/10feb13_eph1.mp3 Download this audio file (muliple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Stephen Oharek&#8217;s sermon on Ephesians 1:15-23.</p>
+<audio class="wp-audio-shortcode" id="audio-2996-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://archive.org/download/Ephesians115-23--Power/10feb13_eph1.mp3?_=2" /><a href="http://archive.org/download/Ephesians115-23--Power/10feb13_eph1.mp3">http://archive.org/download/Ephesians115-23--Power/10feb13_eph1.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" href="http://archive.org/details/Ephesians115-23--Power" rel="nofollow">Download this audio file (muliple formats available)</a></li>
+<li><a href=".org/2978/news/weekly-worship-preparation-229/" rel="nofollow">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://archive.org/download/Ephesians115-23--Power/10feb13_eph1.mp3" length="0" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Ephesians 6:10-24 &#8212; For All the Saints</title>
+		<link>/2011/01/ephesians-610-24-for-all-the-saints/</link>
+		<pubDate>Sun, 09 Jan 2011 23:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Oharek]]></dc:creator>
+				<category><![CDATA[Ephesians]]></category>
+		<category><![CDATA[Rev. Richard Gerber]]></category>
+		<category><![CDATA[Sermons]]></category>
+
+		<guid isPermaLink="false">http://.org/?p=1861</guid>
+		<description><![CDATA[Listen to Rev. Richard Gerber&#8217;s sermon on Ephesians 6:10-24 http://www.archive.org/download/Ephesians610-24--ForAllTheSaints/refopc_110109pm.mp3 Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Richard Gerber&#8217;s sermon on Ephesians 6:10-24</p>
+<audio class="wp-audio-shortcode" id="audio-1861-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.archive.org/download/Ephesians610-24--ForAllTheSaints/refopc_110109pm.mp3?_=4" /><a href="http://www.archive.org/download/Ephesians610-24--ForAllTheSaints/refopc_110109pm.mp3">http://www.archive.org/download/Ephesians610-24--ForAllTheSaints/refopc_110109pm.mp3</a></audio>
+<ul>
+<li><a title="Download this audio file (opens a new window)" rel="nofollow" href="http://www.archive.org/details/Ephesians610-24--ForAllTheSaints" target="_blank">Download this audio file (multiple formats available)</a></li>
+<li><a rel="nofollow" href=".org/1847/news/weekly-worship-preparation-120/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="http://www.archive.org/download/Ephesians610-24--ForAllTheSaints/refopc_110109pm.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

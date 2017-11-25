@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rev. Robert Godfrey &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<atom:link href="/category/sermons/speakers/rev-robert-godfrey/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Worshipping the Lord in Spirit and in truth</description>
+	<lastBuildDate>Fri, 24 Nov 2017 10:15:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-Ref-Logo-32x32.png</url>
+	<title>Rev. Robert Godfrey &#8211; Reformation Orthodox Presbyterian Church (OPC) in Oviedo, FL</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Romans 16:1-16 A Pastoral Goodbye</title>
+		<link>/2015/07/romans-161-16-a-pastoral-goodbye/</link>
+		<pubDate>Mon, 13 Jul 2015 00:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[Bill Onnink]]></dc:creator>
+				<category><![CDATA[Rev. Robert Godfrey]]></category>
+		<category><![CDATA[Romans]]></category>
+		<category><![CDATA[Sermons]]></category>
+		<category><![CDATA[Speakers]]></category>
+		<category><![CDATA[Texts]]></category>
+		<category><![CDATA[sermon]]></category>
+
+		<guid isPermaLink="false">/?p=4519</guid>
+		<description><![CDATA[Listen to Rev. Robert Godfrey&#8217;s sermon on Romans 16:1-16. https://ia601507.us.archive.org/31/items/Romans161-16APastoralGoodbye/07-12-15Pm.mp3 &#160; Download this audio file (multiple formats available) View the accompanying hymns]]></description>
+				<content:encoded><![CDATA[<p>Listen to Rev. Robert Godfrey&#8217;s sermon on Romans 16:1-16.</p>
+<audio class="wp-audio-shortcode" id="audio-4519-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://ia601507.us.archive.org/31/items/Romans161-16APastoralGoodbye/07-12-15Pm.mp3?_=2" /><a href="https://ia601507.us.archive.org/31/items/Romans161-16APastoralGoodbye/07-12-15Pm.mp3">https://ia601507.us.archive.org/31/items/Romans161-16APastoralGoodbye/07-12-15Pm.mp3</a></audio>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://archive.org/details/Romans161-16APastoralGoodbye">Download this audio file (multiple formats available)</a></li>
+<li><a href="/2015/07/weekly-worship-preparation-355/">View the accompanying hymns</a></li>
+</ul>
+]]></content:encoded>
+	<enclosure url="https://ia601507.us.archive.org/31/items/Romans161-16APastoralGoodbye/07-12-15Pm.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
